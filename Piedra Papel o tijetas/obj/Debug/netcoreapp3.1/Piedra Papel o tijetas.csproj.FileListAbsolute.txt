@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\bin\Debug\netcoreapp3.1\Piedra Papel o tijetas.exe
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\bin\Debug\netcoreapp3.1\Piedra Papel o tijetas.deps.json
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\bin\Debug\netcoreapp3.1\Piedra Papel o tijetas.runtimeconfig.json
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\bin\Debug\netcoreapp3.1\Piedra Papel o tijetas.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\bin\Debug\netcoreapp3.1\Piedra Papel o tijetas.dll
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\bin\Debug\netcoreapp3.1\Piedra Papel o tijetas.pdb
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.dll
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.pdb
+C:\Users\Dell\source\repos\Piedra Papel o tijetas\Piedra Papel o tijetas\obj\Debug\netcoreapp3.1\Piedra Papel o tijetas.genruntimeconfig.cache
